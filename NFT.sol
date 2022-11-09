@@ -1,5 +1,7 @@
-//Tutorial: https://www.youtube.com/watch?v=cDZ0p5WTT3A
-
+/*
+    Tutorial: https://www.youtube.com/watch?v=cDZ0p5WTT3A
+    Contract is verified and published on goerli network at address: 0x2465D40e588f2CC64E53692f590d71E6cF020f48
+*/
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.9;
